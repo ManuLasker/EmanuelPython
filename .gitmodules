@@ -1,5 +1,5 @@
 [submodule "primeros-ejercicios"]
-	path = primeros-ejercicios
+	path = ejercicios-1
 	url = git@github.com:ManuLasker/primeros-ejercicios.git
 [submodule "ejercicios-2"]
 	path = ejercicios-2
